@@ -9,6 +9,8 @@
 验证码的话，直接调用联众打码平台，文字点选的2分钱打一次
 
 ### 使用说明
+建议在py3环境下食用
+
 由于使用的selenium，需要下载chromedriver，直接在这里下载对应你chrome的版本就好
 https://npm.taobao.org/mirrors/chromedriver
 
